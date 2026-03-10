@@ -1,20 +1,9 @@
 [
   {
 	  "api":"http://91md.me/api.php/provide/vod",
-	  "name":"🔞91麻豆",
-	  "instance":"",
-	  "webSite":"",
+	  "name":"91麻豆",
 	  "remark":"LVZS",
-	  "noHistory":false,
-	  "userAgent":"",
-	  "displayClassList":[],
-	  "blockClassList":[],
 	  "isLock":true,
-	  "uiType":0,
-	  "codeID":"",
-	  "env":"",
 	  "version":1,
-	  "type":0,
-	  "logo":""
   }
 ]
