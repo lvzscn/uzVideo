@@ -3,7 +3,8 @@
 	  "api":"http://91md.me/api.php/provide/vod",
 	  "name":"91麻豆",
 	  "remark":"LVZS",
-	  "isLock":true,
+	  "webSite":"",
 	  "version":1,
+	  "type":0,
   }
 ]
