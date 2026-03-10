@@ -513,6 +513,11 @@
       "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
       "remark": "LVZS",
       "url": "https://suoniapi.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "🔞91麻豆",
+      "remark": "LVZS",
+      "url": "http://91md.me/api.php/provide/vod"
     }
   ]
 }
